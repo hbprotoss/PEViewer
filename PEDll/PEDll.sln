@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PEDll", "PEDll\PEDll.vcxproj", "{31A015E5-B7E6-4E4A-8935-1A3EA5D21076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A015E5-B7E6-4E4A-8935-1A3EA5D21076}.Debug|Win32.ActiveCfg = Debug|Win32
+		{31A015E5-B7E6-4E4A-8935-1A3EA5D21076}.Debug|Win32.Build.0 = Debug|Win32
+		{31A015E5-B7E6-4E4A-8935-1A3EA5D21076}.Release|Win32.ActiveCfg = Release|Win32
+		{31A015E5-B7E6-4E4A-8935-1A3EA5D21076}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

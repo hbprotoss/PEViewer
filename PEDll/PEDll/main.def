@@ -1,0 +1,5 @@
+LIBRARY PEDll
+EXPORTS
+GetDosHeader @ 1
+GetNtHeaders @ 2
+GetSectionHeader @ 3
